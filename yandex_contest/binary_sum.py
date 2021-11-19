@@ -19,7 +19,6 @@ def main():
         list_1.append(0)
 
     result = []
-    summa = 0
     rest = 0
 
     for i in range(len(list_1)):
